@@ -1,4 +1,4 @@
-Duplicate Coordinate Checker and Remover>
+Duplicate Coordinate Checker and Remover:
 
 Overview
 This script identifies and removes duplicate geographic coordinates from a CSV file containing location data.
