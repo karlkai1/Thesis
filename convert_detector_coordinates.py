@@ -221,7 +221,7 @@ except ImportError:
 
 # Load network
 print("Loading network...")
-net = sumolib.net.readNet('MUNET.net.xml')
+net = sumolib.net.readNet('00_shared_data/network/MUNET.net.xml')
 
 # Load detector coordinates
 print("Loading detector coordinates...")
