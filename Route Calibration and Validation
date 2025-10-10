@@ -1,0 +1,8 @@
+python $SUMO_HOME/tools/routeSampler.py \
+  -r candidate_routes.rou.xml \
+  -d counts.edgedata.xml \
+  -o calibrated_routes.rou.xml \
+  --optimize full \
+  --threads 8
+
+#Integrated Validation creates routes matching edge counts from before
