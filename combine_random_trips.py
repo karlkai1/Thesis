@@ -92,3 +92,6 @@ def combine_route_files():
 
 if __name__ == "__main__":
     sys.exit(combine_route_files())
+
+
+# combine the random routes generated in one file
