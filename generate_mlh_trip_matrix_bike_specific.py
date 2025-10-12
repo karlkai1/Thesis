@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Step 6 MLH: Generate trip matrix for cargo bike operations from MLH depot
+Step MLH: Generate trip matrix for cargo bike operations from MLH depot
 Similar to original Step 5 but adapted for MLH scenario
 """
 
